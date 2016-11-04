@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SystemKeyboardExample.h
 //  TradeViewDemo
 //
 //  Created by wjc on 16/1/6.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITableViewController
-
+@interface SystemKeyboardExample : UIViewController
 
 @end
-
